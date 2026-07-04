@@ -2,7 +2,12 @@
 <p align="center">
 multifuction timer that can turn off your computer
 </p>
+<p align="center">
+<a href="[https://github.com/saeedof1/timer-autoshutdown-sleepmode/releases]">🔗 Download</a>
+ <a href="https://www.virustotal.com/gui/url/a78e5169c22a3713ed1f952117b7334e0da459415fbe878caed9243adbcc2efa?nocache=1">🔗 VirusTotal Scan Report</a>
+</p>
 
+# 🎬 Preview
 
 
 this python app simply just stopwatch timer....countdown timer..alarm...and autoshutdown app
