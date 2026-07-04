@@ -17,3 +17,14 @@ feature :
 3. countdown timer with custom sound 
 
 also there is auto shut down and sleep and restart option for countdown and alarm option
+
+# ✨ Features
+stopwatch, 
+countdown, 
+daily alarm, 
+custom sounds, 
+volume, 
+themes, 
+language toggle, 
+always-on-top, 
+shutdown/restart/sleep actions.
